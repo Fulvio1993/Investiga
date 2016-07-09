@@ -16,7 +16,7 @@ con tabelle di estrarre le didascalie delle tabelle. Inoltre si può anche utili
 di estrarre tutte le informazioni ( sia capitoli, sia didascalie figure, sia didascalie tabelle ).
 
 • FileConfigurazione: il file di configurazione è un file di testo contenente il titolo
-che si vuole assegnare, per ogni articolo PDF cercato nel database RDF, al file
+che si vuole assegnare, per ogni articolo PDF cercato nel database RDF, al file.csv.
 
 • UrlEndpoint: è l’url del database sul quale si vuole eseguire la get.
 
