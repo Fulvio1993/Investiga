@@ -15,11 +15,11 @@ se si indica capitoli si chiede di estrarre i nomi dei capitoli di primo livello
 con tabelle di estrarre le didascalie delle tabelle. Inoltre si può anche utilizzare l’opzione all per indicare all’applicazione
 di estrarre tutte le informazioni ( sia capitoli, sia didascalie figure, sia didascalie tabelle ).
 
-• FileConfigurazione: il file di configurazione `e un file di testo contenente il titolo
+• FileConfigurazione: il file di configurazione è un file di testo contenente il titolo
 che si vuole assegnare, per ogni articolo PDF cercato nel database RDF, al file
 
-• UrlEndpoint: `e l’url del database sul quale si vuole eseguire la get.
+• UrlEndpoint: è l’url del database sul quale si vuole eseguire la get.
 
-• UriGrafo: `e l’uri del grafo sul quale si vuole eseguire la get.
+• UriGrafo: è l’uri del grafo sul quale si vuole eseguire la get.
 
 • DirectoryOutput: indirizzo della directory nella quale si vuole inserire i file restituiti dall’esecuzione di my get.py.
